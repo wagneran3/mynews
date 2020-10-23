@@ -523,7 +523,7 @@ li {
     
 @media (min-width: 992px) { 
     .backgroundimage {
-  background-image: url("../images/background.png")
+  background-image: url("../images/background.png");
   background-size: cover;
     max-height: auto;
     max-width:100%;}
@@ -531,7 +531,7 @@ li {
 
 @media (min-width: 1200px) {
     .backgroundimage {
-  background-image: url("../images/background.png")
+  background-image: url("../images/background.png");
   background-size: cover;
     max-height: auto;
     max-width:100%;}}
